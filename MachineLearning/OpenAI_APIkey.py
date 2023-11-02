@@ -14,7 +14,6 @@ import openai
 # from langchain.chains.summarize import load_summarize_chain
 
 # export OPENAI_API_KEY='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'
-secret_key = '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'
-os.environ["OPENAI_API_KEY"] = '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'
+
 # openai.api_key = secret_key
 
